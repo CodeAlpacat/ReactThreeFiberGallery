@@ -1,5 +1,5 @@
 {
-  "name": "threejs",
+  "name": "threejsGit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,8 +10,8 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "nanoid": "^3.1.20",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-merge-refs": "^1.1.0",
     "react-scripts": "4.0.3",
     "react-spring": "^8.0.27",
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "web-vitals": "^3.0.1"
   }
 }
